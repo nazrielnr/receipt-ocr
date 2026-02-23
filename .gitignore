@@ -1,0 +1,32 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Deep Learning / Models
+*.pt
+*.pth
+*.onnx
+*.weights
+*.h5
+*.pb
+
+# Dataset (Ignore large images/data, keep folder structure if needed)
+dataset/
+!dataset/annotations/
+!dataset/images/
+
+# OS generated files
+.DS_Store
+Thumbs.db
