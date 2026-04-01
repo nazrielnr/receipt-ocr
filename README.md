@@ -4,7 +4,7 @@ Komparasi arsitektur OCR (Tesseract, EasyOCR, PaddleOCR, DocTR) untuk ekstraksi 
 
 ---
 
-## ⚡ Quick Setup (Wajib sebelum buka notebook)
+## Quick Setup
 
 Lakukan langkah ini **sekali** di komputer masing-masing.
 
@@ -52,7 +52,7 @@ Pilih versi **64-bit**. Install ke path default: `C:\Program Files\Tesseract-OCR
 
 ---
 
-## 📂 Struktur Dataset
+## Struktur Dataset
 
 Setelah setup, tambahkan dataset dengan struktur berikut:
 
@@ -71,7 +71,7 @@ dataset/
 
 ---
 
-## 🚀 Buka Notebook
+## Buka Notebook
 
 1. Buka `gacor.ipynb` di VS Code
 2. Klik **"Select Kernel"** (pojok kanan atas)
